@@ -28,12 +28,12 @@ If you are a full caster and all of you spell slots have been used up you can sp
 
 Depending on the level of the spell you also take a level of exhaustion. 
 
-| Spell Level | Exhaustion Level |
-|-------------|------------------|
-| 1-3         | 1                |
-| 4-6         | 2                |
-| 7-8         | 3                |
-| 9           | 4                |
+|Spell Level|Exhaustion Level|
+|---|---|
+|1-3|1|
+|4-6|2|
+|7-8|3|
+|9|4|
 
 # Exhausted
 This version of exhaustion is pulled from the rules for the new version of DnD
