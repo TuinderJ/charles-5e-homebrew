@@ -27,6 +27,7 @@ Materials can be found in shops, mines, in the wilds, as quest rewards, and such
 If you are a full caster and all of you spell slots have been used up you can spend HP equal to 5 times the spell level to cast another spell. This can kill you. The spell cast must be of a level that you have spell slots for.
 
 Depending on the level of the spell you also take a level of exhaustion. 
+
 | Spell Level | Exhaustion Level |
 |-------------|------------------|
 | 1-3         | 1                |
